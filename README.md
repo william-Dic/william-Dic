@@ -1,5 +1,5 @@
 ### Hey there! 👋  
-I'm Guanming, a Second-Year student at UCL, studying Robotics and Artificial Intelligence. My journey has been an exciting one—starting from winning the Chinese National Python Competition (62nd place), to leading the FIRST Robotics team 6433, and contributing to prestigious institutions like Tsinghua University’s AI research and Princeton’s PACT program. Now, I'm diving even deeper into the realms of robotics and AI at UCL, eager to learn, collaborate, and innovate.
+I'm Guanming, a Second-Year student at UCL, studying Robotics and Artificial Intelligence. My journey has been an exciting one—starting from winning the Chinese National Python Competition (62nd place), to leading the FIRST Robotics team 6433, and contributing to prestigious institutions like Tsinghua University’s AI Institue of Research and Princeton’s PACT program. Now, I'm diving even deeper into the realms of robotics and AI at UCL, eager to learn, collaborate, and innovate.
 
 I believe that open-source is a programmer’s romanticism—code as a shared, evolving toolkit that belongs to humanity.
 
