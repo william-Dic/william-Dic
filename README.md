@@ -7,6 +7,7 @@ Since 2022, my GitHub has become a space where I bring this philosophy to life. 
 
 - **BaristBot**: A Chrome extension designed to automate personalized LinkedIn outreach, turning cold messages into warm conversations.
 - **DeepFlow**: A multimodal agent system unifying text, image, and audio reasoning for real-world decision-making and actionable insights.
+- **DeepBattler**: A Hearthstone Battlegrounds agent assistant that offers players real-time strategic advice and gameplay suggestions.
 - **JAX2GPT**: A hands-on tutorial series that breaks down the complexities of GPT architectures, all while leveraging JAX’s minimalist approach.
 
 These projects reflect my mission to democratize AI, make it more approachable, and simplify the transition from academic theory to practical application. With tutorials reaching over 11,000 developers across various platforms, I’m dedicated to transforming intricate concepts into easily digestible, open-source content.
