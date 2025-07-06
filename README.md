@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=william-Dic&show_icons=true&bg_color=00000000" width="1000" height="250" />
+<img src="https://github-readme-stats.vercel.app/api?username=william-Dic&show_icons=true&bg_color=00000000" width="800" height="200" />
