@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/william-Dic">
-    <img src="https://githubstats-henna.vercel.app/api?username=william-Dic&show_icons=true&bg_color=00000000" width="500" height="200" />
-  </a>
+  <a href="https://github.com/william-Dic">
+    <img src="https://github-readme-stats.vercel.app/api?username=william-Dic&show_icons=true" width="500" height="200" />
+  </a>
 </div>
